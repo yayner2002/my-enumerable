@@ -1,50 +1,27 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Ruby Enumerable
 
-# Project Name
-
-> Description the project.
+>In this project i  learned how to use a module inside a class. For this i created a class MyList and a module MyEnumerable. my module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+- Ruby
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To get a local copy up clone the repo or download the full souce code**
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Clone the repository by running git clone git@github.com:yayner2002/my-enumerable.git
+- Navigate to the folder cd my-enumerable
 
 ## Authors
 
-👤 **Author1**
+👤 **yayner**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@yayner2002](https://github.com/yayner2002)
+- Twitter: [@wediagazian](https://twitter.com/wediagazian)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yaynshet-medhin)
 
 👤 **Author2**
 
@@ -56,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/yayner2002/my-enumerable/issues).
 
 ## Show your support
 
@@ -71,5 +48,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
