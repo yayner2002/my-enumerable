@@ -23,11 +23,11 @@
 - Twitter: [@wediagazian](https://twitter.com/wediagazian)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yaynshet-medhin)
 
-👤 **Author2**
+👤 **Johnson**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Johnson](https://github.com/ifzyy)
+- Twitter: [@Johsnon](https://twitter.com/JohnsnEmmanuel)
+- LinkedIn: [Johnson](https://linkedin.com/in/johnson-emmanuel)
 
 ## 🤝 Contributing
 
