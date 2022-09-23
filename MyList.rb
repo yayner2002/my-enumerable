@@ -19,3 +19,4 @@ p list.any? {|e| e == 2}
 #true
 p list.any? {|e| e == 5}
 #false
+list.filter {|e| e.even?}

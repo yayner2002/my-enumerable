@@ -14,4 +14,12 @@ module MyEnumerable
     false
   end
 
+  def filter
+    collection = []
+    each do |all_elements|
+      collection << all_elements if yield(all_elements)
+    end
+    collection
+
+  end
 end
