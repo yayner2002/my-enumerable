@@ -1,10 +1,17 @@
 module MyEnumerable
-  def all_method
+  def all?
     return "No block given" unless block_given?
-    each do |el|
-      return false unless yield(el)
+      each do |all_elements|
+        return false unless yield(all_elements)
+      end
+      true
+  end
+
+  def any?
+    each do |all_elements|
+      return true if yield(all_elements)
     end
-    true
+    false
   end
 
 end
