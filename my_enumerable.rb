@@ -1,10 +1,11 @@
 module MyEnumerable
   def all?
-    return "No block given" unless block_given?
-      each do |all_elements|
-        return false unless yield(all_elements)
-      end
-      true
+    return 'No block given' unless block_given?
+
+    each do |all_elements|
+      return false unless yield(all_elements)
+    end
+    true
   end
 
   def any?
@@ -20,6 +21,5 @@ module MyEnumerable
       collection << all_elements if yield(all_elements)
     end
     collection
-
   end
 end
